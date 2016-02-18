@@ -5,7 +5,7 @@ cpus: 1
 provider: virtualbox
 
 folders:
-    - map: .
+    - map: c:/Websites/_github/homestead_improved
       to: /home/vagrant/Code
 
 sites:
